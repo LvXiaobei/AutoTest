@@ -1,2 +1,0 @@
-# mygittest
-my git test
